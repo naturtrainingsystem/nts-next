@@ -701,7 +701,7 @@ export default function NutricionBEDCA() {
     <div style={{ maxWidth: 520, margin: "0 auto", padding: "1.5rem 1rem", fontFamily: "sans-serif" }}>
       <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: "1.25rem" }}>
         <img
-          src={LOGO_B64} alt="NTS Analytics"
+          src="/logo.png" alt="NTS Analytics"
           style={{ width: 44, height: 44, borderRadius: 8, objectFit: "cover", flexShrink: 0 }}
         />
         <div style={{ flex: 1 }}>
